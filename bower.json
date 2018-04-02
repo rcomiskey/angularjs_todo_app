@@ -1,0 +1,22 @@
+{
+  "name": "angular-todo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Rory Comiskey <rorycomiskey@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/rcomiskey/angularjs_todo_app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "angular": "^1.6.9",
+    "angular-route": "^1.6.9"
+  }
+}
